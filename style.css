@@ -1,0 +1,33 @@
+div{
+    background-color: #aaa;
+}
+
+body{
+    margin: 50px 200px;
+}
+
+h1 {
+    font-size: 30px;
+    font-family: sans-serif;
+    font-weight: bold;
+    color: darkslateblue;
+    text-align: center;
+    padding: 30px;
+}
+
+p {
+    text-align: justify;
+    text-indent: 50px;
+    padding: 30px;
+}
+
+#QueenMain {
+    text-align:center;
+}
+
+#beforeList {
+    padding-bottom: 0px;
+}
+
+ul {
+}
